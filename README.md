@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VSchwift
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning Statistics and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
